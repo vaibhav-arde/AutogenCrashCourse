@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "autogen-agentchat>=0.7.4",
     "autogen-core>=0.7.4",
-    "autogen-ext>=0.7.4",
+    "autogen-ext[ollama,openai]>=0.7.4",
+    "dotenv>=0.9.9",
     "ipykernel>=6.30.1",
 ]

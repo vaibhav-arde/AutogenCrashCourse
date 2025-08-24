@@ -1,3 +1,6 @@
 autogen-agentchat
 autogen-core
 autogen-ext
+dotenv
+autogen-ext[ollama]
+autogen-ext[openai]
