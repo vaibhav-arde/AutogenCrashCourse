@@ -4,3 +4,6 @@ autogen-ext
 dotenv
 autogen-ext[ollama]
 autogen-ext[openai]
+json_schema_to_pydantic
+langchain_community
+autogen-ext[langchain]
